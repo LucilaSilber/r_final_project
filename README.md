@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 # SISE2601 Advanced Data Analysis in R : Final Project
 ================
 Team name: T
